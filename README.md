@@ -1,6 +1,6 @@
 # 👋 Salut, c'est Allan  
 
-🚀 **Ingénieur DevOps & Développeur Full-Stack**  
+**Ingénieur DevOps & Développeur Full-Stack**  
 Passionné par le **cloud** (Google Cloud Platform), le **développement front/back-end** et l’**automatisation**.  
 Curieux, autonome et orienté bonnes pratiques, j’aime concevoir des solutions **robustes, performantes et maintenables**.  
 
@@ -8,18 +8,18 @@ Curieux, autonome et orienté bonnes pratiques, j’aime concevoir des solutions
 
 ## 💻 Compétences
 
-### 🌐 Développement
+###  Développement
 - **Langages :** Java • JavaScript • SQL  
 - **Frameworks :** Spring Boot • React  
 
-### ☁️ Cloud & Infra
+###  Cloud & Infra
 - **Cloud :** Google Cloud Platform  
 - **IaC :** Terraform  
 - **Containerisation & CI/CD :** Docker • GitHub Actions • Git  
 
 ---
 
-## 📊 Statistiques GitHub
+##  Statistiques GitHub
 <div align="center">
 
 ![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanLny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
