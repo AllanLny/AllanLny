@@ -8,14 +8,14 @@ Curieux, autonome et orienté bonnes pratiques, j’aime concevoir des solutions
 
 ## 💻 Compétences
 
-###  Développement
-- **Langages :** Java • JavaScript • SQL  
-- **Frameworks :** Spring Boot • React  
-
 ###  Cloud & Infra
-- **Cloud :** Google Cloud Platform  
+- **Cloud :** Google Cloud Platform , FinOps
 - **IaC :** Terraform  
 - **Containerisation & CI/CD :** Docker • GitHub Actions • Git  
+
+###  Développement
+- **Langages :** JavaScript • Java • SQL  
+- **Frameworks :** React • Spring Boot  
 
 ---
 
