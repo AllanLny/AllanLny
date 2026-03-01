@@ -14,8 +14,8 @@ Curieux, autonome et orienté bonnes pratiques, j’aime concevoir des solutions
 - **Containerisation & CI/CD :** Docker • GitHub Actions • Git  
 
 ###  Développement
-- **Langages :** JavaScript • Java • SQL  
-- **Frameworks :** React • Spring Boot  
+- **Langages :** JavaScript • Python • Java • SQL  
+- **Frameworks :** React • FastApi  • Spring Boot  
 
 ---
 
